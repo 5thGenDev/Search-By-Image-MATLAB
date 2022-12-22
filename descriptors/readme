@@ -1,1 +1,3 @@
-This folder contains image descriptors like BoVW (compressed from SIFT or Harris keypoints), Edge-Orientation Histogram, RGB Histogram. The latter twos can be implemented with grid to have generally better accuracy
+This folder contains image descriptors like BoVW (compressed from SIFT or Harris keypoints), Edge-Orientation Histogram, RGB Histogram. 
+The latter twos can be implemented with grid to have generally better accuracy
+No need to add anything to this file, computedescriptors.m will create descriptors from provided images in MSRC_ObjCategImageDatabase_v2 folder
